@@ -3,7 +3,7 @@ import numpy as np
 
 kernel = None
 # Loading the video
-cap = cv2.VideoCapture('media/videos/carsvid.mp4')
+cap = cv2.VideoCapture('carsvid.mp4')
 
 # Initialize the background object
 background_object = cv2.createBackgroundSubtractorMOG2(detectShadows=True)
