@@ -8,6 +8,7 @@ Currently included:
 * [Vehicle Detection using Contours](#-vehicle-detection-using-contours)
 * [Live Sketch from Webcam](#️-live-sketch-from-webcam)
 * [Virtual Mouse - Control with Hand](#-virtual-mouse-using-hand-tracking)
+* [Interactive Digital Palette](#-interactive-digital-palette)
 
 
 
