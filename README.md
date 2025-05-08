@@ -7,6 +7,7 @@ Currently included:
 [Vehicle Detection using Contours](#-vehicle-detection-using-contours)
 [Live Sketch from Webcam](#️-live-sketch-from-webcam)
 [Virtual Mouse - Control with Hand](#-virtual-mouse-using-hand-tracking)
+[Interactive Digital Pallete](#-interactive-digital-palette)
 
 
 
@@ -16,11 +17,14 @@ Currently included:
 Detects vehicles from a pre-recorded video or live feed using **contour detection techniques**.  
 Contours help identify moving objects and track their shape across frames.
 
-1. ### ✏️ **Live Sketch from Webcam**
+2. ### ✏️ **Live Sketch from Webcam**
 Turns your webcam feed into a live pencil sketch in real time.
 
-1. ### 📸 **Virtual Mouse using Hand Tracking**
+3. ### 📸 **Virtual Mouse using Hand Tracking**
 Application that allows you to control the cursor on your screen using hand gestures captured through your webcam
+
+4. ### 🎨 **Interactive Digital Palette**
+A simple interactive digital palette that allows users to create different arts and writing
 
 ---
 
